@@ -1,7 +1,7 @@
 #container{
     display: inline-flexbox;
 }
-
+/* style the body*/
 body {
     background-color: black;
     color: white;
@@ -82,7 +82,3 @@ h1 {
 .film-item:hover {
     background-color: #333;
 }
-
-
-
-
